@@ -1,11 +1,11 @@
-// 2026-05-31 03:14:52;來自厲害的Chatgpt V59
-const CACHE_NAME = 'mitu-music-album-pwa-v59';
+// 2026-05-31 03:20:45;來自厲害的Chatgpt V60
+const CACHE_NAME = 'mitu-music-album-pwa-v60';
 const APP_ASSETS = [
   './',
   './index.html',
   './manifest.webmanifest',
-  './mitu-music-album-icon-v59-192.png',
-  './mitu-music-album-icon-v59-512.png'
+  './mitu-music-album-icon-v60-192.png',
+  './mitu-music-album-icon-v60-512.png'
 ];
 
 self.addEventListener('install', (event) => {
