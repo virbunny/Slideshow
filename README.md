@@ -1,4 +1,4 @@
-# 米兔音樂相簿 PWA V58
+# 米兔音樂相簿 PWA V59
 
 ## 使用方式
 
@@ -9,7 +9,9 @@
 ## 注意
 
 - PWA 需要透過 HTTPS 或 localhost 執行；直接用本機檔案開啟時，Service Worker 通常不會啟用。
-- 本版使用全新 icon 檔名：`mitu-music-album-icon-v58-192.png`、`mitu-music-album-icon-v58-512.png`。
+- 本版使用全新 icon 檔名：`mitu-music-album-icon-v59-192.png`、`mitu-music-album-icon-v59-512.png`。
 - manifest 只放新的透明 PNG icon，沒有 maskable 圖示。
-- service worker 快取名已更新為 `mitu-music-album-pwa-v58`。
+- service worker 快取名已更新為 `mitu-music-album-pwa-v59`。
 - 若手機已安裝舊版 PWA，請刪除舊 PWA／舊捷徑，並清除網站資料或快取後再重裝。
+
+- V59：手機版桌面圖示內容縮小 2px，保留透明背景與原尺寸畫布。
